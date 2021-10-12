@@ -1,3 +1,1 @@
-Route::group(['prefix' => 'XXX'], function() {
-    Route::post['XXX', 'Admin\AAAController@bbb'];
-});
+Route::post['XXX', 'Admin\AAAController@bbb'];
